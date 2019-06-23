@@ -1,0 +1,39 @@
+#main {
+  background-color: #D6D6D6
+}
+h1, h2 {
+  text-align: center;
+}
+
+h1, h3, p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-style: oblique;
+  font-weight: 200;
+}
+
+#img-div {
+  margin-top: -15px;
+}
+
+#image {
+  margin-top: 5%;
+  height: auto;
+  max-width: 90%;
+}
+#img-caption, #tribute-text {
+  margin: 0 5% 5% 5%;
+  font-style: oblique;
+}
+
+.section {
+  background-color: white;
+  margin: 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 25px;
+}
